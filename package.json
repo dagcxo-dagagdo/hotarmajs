@@ -1,0 +1,24 @@
+{
+  "name": "hotarmajs",
+  "version": "0.1.0",
+  "description": "hota mota honk bonk viehe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagcxo-dagagdo/hotarmajs.git"
+  },
+  "keywords": [
+    "hota",
+    "mota",
+    "honk"
+  ],
+  "author": "Hota Mota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dagcxo-dagagdo/hotarmajs/issues"
+  },
+  "homepage": "https://github.com/dagcxo-dagagdo/hotarmajs#readme"
+}
