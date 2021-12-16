@@ -7,7 +7,7 @@
 > instalation
 
 ```js
-npm i hotarmajs
+npm i hotarmajs --save
 ```
 
 ## Usage
