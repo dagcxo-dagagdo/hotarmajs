@@ -9,3 +9,11 @@
 ```js
 npm i hotarmajs
 ```
+
+## Usage
+
+```js
+import hota from "hotarmajs";
+
+hota.mota();
+```
