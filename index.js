@@ -4,4 +4,4 @@ const hota = {
   mota,
 };
 
-module.exports = hota;
+export default hota;
